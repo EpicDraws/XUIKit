@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "XUIKit"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "XUIKit uses categories to make NSBezierPath, NSColor, NSFont completely API compatible with their UIKit counterparts."
 
   s.description  = <<-DESC

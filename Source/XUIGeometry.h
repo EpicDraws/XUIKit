@@ -20,7 +20,7 @@
 
 #import <Cocoa/Cocoa.h>
 #import <ApplicationServices/ApplicationServices.h>
-
+#import "XUIBase.h"
 
 // We do not own the CG* or NS* namespaces, use XUI_ prefix and
 // use #defines to prevent future binary compatibility issues
