@@ -20,6 +20,7 @@
 
 #import <XUIKit/XUIImageAdditions.h>
 #import <XUIKit/XUIGraphics.h>
+#import <XUIKit/XUIBase.h>
 
 #define INIT_METHOD __attribute__((objc_method_family(init)))
 

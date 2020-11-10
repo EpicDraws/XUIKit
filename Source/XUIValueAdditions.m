@@ -19,7 +19,7 @@
 */
 
 #import <XUIKit/XUIValueAdditions.h>
-
+#import <XUIKit/XUIBase.h>
 
 @implementation NSValue (XUIKitAdditions_Implementation)
 

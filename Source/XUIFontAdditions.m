@@ -19,7 +19,7 @@
 */
 
 #import <XUIKit/XUIFontAdditions.h>
-
+#import <XUIKit/XUIBase.h>
 #import <objc/objc-runtime.h>
 
 

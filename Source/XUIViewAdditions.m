@@ -19,7 +19,7 @@
 */
 
 #import <XUIKit/XUIViewAdditions.h>
-
+#import <XUIKit/XUIBase.h>
 
 @implementation NSView (XUIKitAdditions_Implementation)
 

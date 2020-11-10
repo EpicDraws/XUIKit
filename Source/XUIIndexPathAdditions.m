@@ -19,7 +19,7 @@
 */
 
 #import <XUIKit/XUIIndexPathAdditions.h>
-
+#import <XUIKit/XUIBase.h>
 
 @implementation NSIndexPath (XUIKitAdditions_Implementation)
 
